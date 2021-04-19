@@ -1,0 +1,5 @@
+## My Resolusi
+- belajar python
+- belajar django
+- belajar javascript
+- belajar vue js
