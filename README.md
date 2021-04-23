@@ -1,4 +1,4 @@
-### Hi there i'am a newbie
+## AssalamuAlaikum, Thank you for your visit 
 
 <!--
 **syawalmuis/syawalmuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
